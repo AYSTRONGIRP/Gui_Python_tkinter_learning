@@ -1,1 +1,1 @@
-first time uploading to github from terminal .
+gui tkinter using python
